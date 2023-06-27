@@ -24,6 +24,7 @@ class UserStorage {
 
 // 콜백함수를 많이 쓰면,,
 // 가독성이 너무 많이 떨어진다 => 어떻게 연결되어있는지 한 눈에 확인하기 어렵다.
+// 디버깅이 어렵다. 유지보수 또한 어렵다.
 
 const userStorage = new UserStorage();
 const id = prompt("ID: ");
