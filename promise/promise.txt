@@ -1,0 +1,5 @@
+promise => 자바스크립트 내장 오브젝트, callback 대신해서 쓰는 비동기법
+2가지만 포인트 잡고!
+
+1. state(상태) : 기능이 잘 수행됐는지, 성공/실패했는지
+2. producer/consumer
